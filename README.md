@@ -15,23 +15,17 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building e
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, TypeScript, Python, [add more]
-- **Frameworks:** React, Next.js, Node.js, Express, [add more]
-- **Databases:** MongoDB, PostgreSQL, [add more]
-- **DevOps:** Docker, GitHub Actions, AWS, [add more]
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** React, Next.js, Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+- **DevOps:** Docker, GitHub Actions, AWS
 - **Other:** REST APIs, GraphQL, Unit Testing, CI/CD
 
 ---
 
-## 📚 Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| [Project 1](#) | Short summary of what it does and your role. | React, Node.js | [Live Demo](#) |
-| [Project 2](#) | Short summary of what it does and your role. | Python, Flask | [Live Demo](#) |
-| [Project 3](#) | Short summary of what it does and your role. | TypeScript, Next.js | [Live Demo](#) |
 
-*Explore more in my repositories tab!*
+
 
 ---
 
@@ -42,19 +36,9 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building e
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 [Certification or Award Name], [Year]
-- 🏅 [Hackathon Winner / Open Source Contributor], [Year]
-- 🌟 [Mention notable open source or community work]
-
 ---
 
-## 🌱 Currently Learning
 
-- Cloud Computing (AWS, GCP, Azure)
-- Backend Architecture & Microservices
-- Advanced TypeScript & React Patterns
 
 ---
 
