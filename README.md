@@ -1,55 +1,27 @@
-# 👋 Hi, I'm Usman!
+# Hi, I'm Usman 👋
 
-Welcome to my GitHub profile! I’m a passionate developer focused on building efficient, scalable, and user-friendly solutions. I love exploring new technologies, collaborating with others, and solving complex problems.
+Welcome to my GitHub profile! I'm a passionate developer interested in building amazing projects and contributing to the open-source community.
 
----
+## About Me
 
-## 🧑‍💻 About Me
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm always learning and exploring new technologies
+- 💬 Ask me about anything tech-related
+- 📧 Feel free to reach out to me
 
-- 🎓 **Education:** [Add your degree, university, and graduation year]
-- 💼 **Current Role:** [Your current job title & company]
-- 🌍 **Location:** [Your city, country]
-- 🗣️ **Languages:** [List languages you speak]
+## Skills
 
----
+- **Languages:** JavaScript, Python, C++
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, VS Code
 
-## 🛠️ Skills & Technologies
+## Connect With Me
 
-- **Languages:** JavaScript, TypeScript, Python
-- **Frameworks:** React, Next.js, Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
-- **DevOps:** Docker, GitHub Actions, AWS
-- **Other:** REST APIs, GraphQL, Unit Testing, CI/CD
-
----
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-## 📈 GitHub Stats
-
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman1911&show_icons=true&hide_title=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman1911&layout=compact)
-
----
-
----
-
-
-
----
-
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/usman1911/)
-- [Email](mailto:your-email@example.com) <!-- Replace with your actual email -->
-- [Portfolio Website](#) <!-- Add your portfolio link if available -->
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting! 🚀
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.
