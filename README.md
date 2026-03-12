@@ -3,7 +3,6 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/usman1911?label=Follow&style=social)](https://github.com/usman1911)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/usman1911?style=social)](https://twitter.com/usman1911)
   ![Profile views](https://komarev.com/ghpvc/?username=usman1911&color=blue)
   
 </div>
@@ -17,8 +16,8 @@ I'm a passionate developer with a love for building amazing projects and contrib
 - 🔭 Currently working on exciting projects
 - 🌱 Learning new technologies and frameworks
 - 💬 Ask me about anything - I'm happy to help!
-- 📫 Reach me at: **usman1911@example.com**
-- ⚡ Fun fact: I love coding, coffee, and cats ☕🐱
+- 📫 Reach me at: mumushi2003@gmail.com
+- ⚡ Fun fact: I love coding, cold coffee, and cats ☕🐱
 
 ---
 
