@@ -1,6 +1,6 @@
 # Hi, I'm Usman 👋
 
-💻 Software Developer  
+💻 Software Developer   
 🚀 Interested in AI, Full Stack Development, and Problem Solving  
 🌱 Currently learning DSA and building projects  
 
