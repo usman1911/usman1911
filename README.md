@@ -1,4 +1,4 @@
- # Hi, I'm Mohammad Usman 👋
+ # Hi, I'm Usman 👋
 
 💻 Software Developer   
 🚀 Interested in AI, Full Stack Development, and Problem Solving  
